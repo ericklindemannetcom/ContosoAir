@@ -1,3 +1,6 @@
+
+[![Build Status](https://dev.azure.com/ericklindemannetcom/contosoair/_apis/build/status/ericklindemannetcom.ContosoAir?branchName=master)](https://dev.azure.com/ericklindemannetcom/contosoair/_build/latest?definitionId=4&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
